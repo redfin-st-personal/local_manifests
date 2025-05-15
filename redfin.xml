@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/google/redfin" name="redfin-st-personal/device_google_redfin" remote="github" />
+  <project path="vendor/google/redfin" name="redfin-st-personal/vendor_google_redfin" remote="github" />
+  <project path="device/google/redbull" name="redfin-st-personal/device_google_redbull" remote="github" />
+  <!-- `refs/heads/lineage-22.2` for non-root -->
+  <project path="kernel/google/redbull" name="redfin-st-personal/kernel_google_redbull" remote="github" revision="refs/heads/lineage-22.2-ksu-susfs" />
+  <project path="device/google/gs-common" name="LineageOS/android_device_google_gs-common" remote="github" />
+</manifest>
